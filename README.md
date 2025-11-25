@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sakshi Pawar</h1>
 <h3 align="center">A passionate software enginnering student</h3>
 
-<img align ="right" alt="coding" width="d.png">
+<img align = "left " src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" style="width:120px;height:120px;border-radius:50%;object-fit:cover;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshipawar06&label=Profile%20views&color=0e75b6&style=flat" alt="sakshipawar06" /> </p>
 
 - 🌱 I’m currently learning **JAVASCRIPT,C++ ,DSA**
