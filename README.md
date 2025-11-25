@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakshi-pawar-spwr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-pawar-spwr" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sakshipawar06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sakshipawar06" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sakshipawar06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sakshipawar06" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sakshi_pawar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sakshi_pawar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/6wqh8xvwfa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/6wqh8xvwfa/" height="30" width="40" /></a>
 </p>
